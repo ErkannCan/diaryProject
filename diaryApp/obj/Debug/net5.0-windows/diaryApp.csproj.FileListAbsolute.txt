@@ -1,0 +1,58 @@
+C:\Users\elifc\source\repos\diaryApp\bin\Debug\net5.0-windows\diaryApp.exe
+C:\Users\elifc\source\repos\diaryApp\bin\Debug\net5.0-windows\diaryApp.deps.json
+C:\Users\elifc\source\repos\diaryApp\bin\Debug\net5.0-windows\diaryApp.runtimeconfig.json
+C:\Users\elifc\source\repos\diaryApp\bin\Debug\net5.0-windows\diaryApp.runtimeconfig.dev.json
+C:\Users\elifc\source\repos\diaryApp\bin\Debug\net5.0-windows\diaryApp.dll
+C:\Users\elifc\source\repos\diaryApp\bin\Debug\net5.0-windows\ref\diaryApp.dll
+C:\Users\elifc\source\repos\diaryApp\bin\Debug\net5.0-windows\diaryApp.pdb
+C:\Users\elifc\source\repos\diaryApp\obj\Debug\net5.0-windows\diaryApp.addDiary.resources
+C:\Users\elifc\source\repos\diaryApp\obj\Debug\net5.0-windows\diaryApp.Form1.resources
+C:\Users\elifc\source\repos\diaryApp\obj\Debug\net5.0-windows\diaryApp.csproj.GenerateResource.cache
+C:\Users\elifc\source\repos\diaryApp\obj\Debug\net5.0-windows\diaryApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elifc\source\repos\diaryApp\obj\Debug\net5.0-windows\diaryApp.AssemblyInfoInputs.cache
+C:\Users\elifc\source\repos\diaryApp\obj\Debug\net5.0-windows\diaryApp.AssemblyInfo.cs
+C:\Users\elifc\source\repos\diaryApp\obj\Debug\net5.0-windows\diaryApp.csproj.CoreCompileInputs.cache
+C:\Users\elifc\source\repos\diaryApp\obj\Debug\net5.0-windows\diaryApp.dll
+C:\Users\elifc\source\repos\diaryApp\obj\Debug\net5.0-windows\ref\diaryApp.dll
+C:\Users\elifc\source\repos\diaryApp\obj\Debug\net5.0-windows\diaryApp.pdb
+C:\Users\elifc\source\repos\diaryApp\obj\Debug\net5.0-windows\diaryApp.genruntimeconfig.cache
+C:\Users\elifc\source\repos\diaryApp\obj\Debug\net5.0-windows\diaryApp.csproj.AssemblyReference.cache
+C:\Users\erkan\Desktop\diaryApp\diaryApp\obj\Debug\net5.0-windows\diaryApp.dll
+C:\Users\erkan\Desktop\diaryApp\diaryApp\obj\Debug\net5.0-windows\diaryApp.pdb
+C:\Users\erkan\Desktop\diaryApp\diaryApp\bin\Debug\net5.0-windows\diaryApp.exe
+C:\Users\erkan\Desktop\diaryApp\diaryApp\bin\Debug\net5.0-windows\diaryApp.deps.json
+C:\Users\erkan\Desktop\diaryApp\diaryApp\bin\Debug\net5.0-windows\diaryApp.runtimeconfig.json
+C:\Users\erkan\Desktop\diaryApp\diaryApp\bin\Debug\net5.0-windows\diaryApp.runtimeconfig.dev.json
+C:\Users\erkan\Desktop\diaryApp\diaryApp\bin\Debug\net5.0-windows\diaryApp.dll
+C:\Users\erkan\Desktop\diaryApp\diaryApp\bin\Debug\net5.0-windows\diaryApp.pdb
+C:\Users\erkan\Desktop\diaryApp\diaryApp\obj\Debug\net5.0-windows\diaryApp.csproj.AssemblyReference.cache
+C:\Users\erkan\Desktop\diaryApp\diaryApp\obj\Debug\net5.0-windows\diaryApp.addDiary.resources
+C:\Users\erkan\Desktop\diaryApp\diaryApp\obj\Debug\net5.0-windows\diaryApp.Form1.resources
+C:\Users\erkan\Desktop\diaryApp\diaryApp\obj\Debug\net5.0-windows\diaryApp.csproj.GenerateResource.cache
+C:\Users\erkan\Desktop\diaryApp\diaryApp\obj\Debug\net5.0-windows\diaryApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erkan\Desktop\diaryApp\diaryApp\obj\Debug\net5.0-windows\diaryApp.AssemblyInfoInputs.cache
+C:\Users\erkan\Desktop\diaryApp\diaryApp\obj\Debug\net5.0-windows\diaryApp.AssemblyInfo.cs
+C:\Users\erkan\Desktop\diaryApp\diaryApp\obj\Debug\net5.0-windows\diaryApp.csproj.CoreCompileInputs.cache
+C:\Users\erkan\Desktop\diaryApp\diaryApp\obj\Debug\net5.0-windows\refint\diaryApp.dll
+C:\Users\erkan\Desktop\diaryApp\diaryApp\obj\Debug\net5.0-windows\diaryApp.genruntimeconfig.cache
+C:\Users\erkan\Desktop\diaryApp\diaryApp\obj\Debug\net5.0-windows\ref\diaryApp.dll
+C:\Users\erkan\Desktop\Yeni klasör (3)\diaryProject\diaryApp\bin\Debug\net5.0-windows\diaryApp.exe
+C:\Users\erkan\Desktop\Yeni klasör (3)\diaryProject\diaryApp\bin\Debug\net5.0-windows\diaryApp.deps.json
+C:\Users\erkan\Desktop\Yeni klasör (3)\diaryProject\diaryApp\bin\Debug\net5.0-windows\diaryApp.runtimeconfig.json
+C:\Users\erkan\Desktop\Yeni klasör (3)\diaryProject\diaryApp\bin\Debug\net5.0-windows\diaryApp.runtimeconfig.dev.json
+C:\Users\erkan\Desktop\Yeni klasör (3)\diaryProject\diaryApp\bin\Debug\net5.0-windows\diaryApp.dll
+C:\Users\erkan\Desktop\Yeni klasör (3)\diaryProject\diaryApp\bin\Debug\net5.0-windows\diaryApp.pdb
+C:\Users\erkan\Desktop\Yeni klasör (3)\diaryProject\diaryApp\obj\Debug\net5.0-windows\diaryApp.csproj.AssemblyReference.cache
+C:\Users\erkan\Desktop\Yeni klasör (3)\diaryProject\diaryApp\obj\Debug\net5.0-windows\diaryApp.addDiary.resources
+C:\Users\erkan\Desktop\Yeni klasör (3)\diaryProject\diaryApp\obj\Debug\net5.0-windows\diaryApp.Form1.resources
+C:\Users\erkan\Desktop\Yeni klasör (3)\diaryProject\diaryApp\obj\Debug\net5.0-windows\diaryApp.csproj.GenerateResource.cache
+C:\Users\erkan\Desktop\Yeni klasör (3)\diaryProject\diaryApp\obj\Debug\net5.0-windows\diaryApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erkan\Desktop\Yeni klasör (3)\diaryProject\diaryApp\obj\Debug\net5.0-windows\diaryApp.AssemblyInfoInputs.cache
+C:\Users\erkan\Desktop\Yeni klasör (3)\diaryProject\diaryApp\obj\Debug\net5.0-windows\diaryApp.AssemblyInfo.cs
+C:\Users\erkan\Desktop\Yeni klasör (3)\diaryProject\diaryApp\obj\Debug\net5.0-windows\diaryApp.csproj.CoreCompileInputs.cache
+C:\Users\erkan\Desktop\Yeni klasör (3)\diaryProject\diaryApp\obj\Debug\net5.0-windows\diaryApp.sourcelink.json
+C:\Users\erkan\Desktop\Yeni klasör (3)\diaryProject\diaryApp\obj\Debug\net5.0-windows\diaryApp.dll
+C:\Users\erkan\Desktop\Yeni klasör (3)\diaryProject\diaryApp\obj\Debug\net5.0-windows\refint\diaryApp.dll
+C:\Users\erkan\Desktop\Yeni klasör (3)\diaryProject\diaryApp\obj\Debug\net5.0-windows\diaryApp.pdb
+C:\Users\erkan\Desktop\Yeni klasör (3)\diaryProject\diaryApp\obj\Debug\net5.0-windows\diaryApp.genruntimeconfig.cache
+C:\Users\erkan\Desktop\Yeni klasör (3)\diaryProject\diaryApp\obj\Debug\net5.0-windows\ref\diaryApp.dll
